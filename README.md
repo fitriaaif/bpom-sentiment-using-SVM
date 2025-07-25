@@ -1,6 +1,6 @@
-# 📊 Penerapan Algoritma SVM dengan PSO dan ADASYN untuk Sentimen Opini Kinerja BPOM dalam Pengawasan Produk *Skincare*
+# 📊 Penerapan Algoritma SVM dengan ADASYN dan PSO untuk Sentimen Opini Kinerja BPOM dalam Pengawasan Produk *Skincare*
 
-Repository ini berisi kode program untuk analisis sentimen opini publik terhadap kinerja BPOM dalam pengawasan produk *skincare*. Proyek ini menggunakan algoritma *Support Vector Machine* (SVM) untuk klasifikasi sentimen, serta menerapkan *Particle Swarm Optimization* (PSO) sebagai metode optimasi dan ADASYN (*Adaptive Synthetic Sampling*) untuk menangani ketidakseimbangan kelas.
+Repository ini berisi kode program untuk analisis sentimen opini publik terhadap kinerja BPOM dalam pengawasan produk *skincare*. Proyek ini menggunakan algoritma *Support Vector Machine* (SVM) untuk klasifikasi sentimen, serta menerapkan ADASYN (*Adaptive Synthetic Sampling*) untuk menangani ketidakseimbangan kelas dan *Particle Swarm Optimization* (PSO) sebagai metode optimasi.
 
 ---
 
@@ -18,10 +18,10 @@ Dataset berasal dari opini publik di media sosial X (Twitter) mengenai kinerja B
 - Pelabelan data
 - Eksplorasi data (EDA)
 - Ekstraksi fitur menggunakan TF-IDF
-- Optimasi parameter menggunakan PSO
 - Penanganan dataset tidak seimbang menggunakan metode ADASYN
-- Implementasi algoritma SVM untuk klasifikasi sentimen: positif dan negatif- 
-- Evaluasi model dengan metrik:
+- Optimasi parameter menggunakan PSO
+- Implementasi algoritma SVM untuk klasifikasi sentimen: positif dan negatif 
+- Evaluasi model dengan metrik akurasi, presisi, recall, dan F1-score
 
 ---
 
