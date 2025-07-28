@@ -15,7 +15,7 @@ Dataset berasal dari opini publik di media sosial X (Twitter) mengenai kinerja B
 - *Crawling data*
 - *Data preparation* (mengecek nilai null, data duplikat, dan menghapus kolom yang tidak relevan)
 - *Preprocessing data* teks (*case folding*, pembersihan, normalisasi, tokenisasi, *stopword removal*, dan *stemming*)
-- Pelabelan data
+- Pelabelan data menggunakan kamus lexicon InSet
 - Eksplorasi data (EDA)
 - Ekstraksi fitur menggunakan TF-IDF
 - Penanganan dataset tidak seimbang menggunakan metode ADASYN
